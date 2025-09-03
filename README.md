@@ -68,10 +68,13 @@ Realizei o upload dos arquivos do meu site estatico:
 
 **Default root object:** Precisei definir no CloudFront o "objeto raiz padrão" para o index.html para que reconheça o arquivo do html:
 
+##Resultado Final
+
+<img width="1556" height="995" alt="image" src="https://github.com/user-attachments/assets/cba77924-ddf4-4757-b5d7-fe10438d4ddf" />
 
 
 
-
+**Enquanto tiver com a conta freetier, o site ficará disponivel:** https://d15t380x0dlhwd.cloudfront.net/
 
 
 
